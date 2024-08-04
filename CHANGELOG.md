@@ -1,3 +1,7 @@
+# 4 Aug 2024
+
+Resolves an issue where bindings to and from mashup parameters did not work.
+
 # 25 May 2024
 
 Adds support for specifying visibility permissions on mashups. ([kklorenzotesta](https://github.com/kklorenzotesta))
